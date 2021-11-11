@@ -38,7 +38,7 @@ Hello :wave:! I'm Rahmat, and I love to code and eager to explore various things
 ![SequelizeORM](https://img.shields.io/badge/SequelizeORM-FF9900?style=flat-square&labelColor=black&logo=Sequelize)
 ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&labelColor=e34c26&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-C51A4A?style=flat-square&labelColor=C51A4A&logo=sass)
-![TailwindCSS]https://img.shields.io/badge/TailwindCSS-FF9900?style=flat-square&labelColor=black&logo=Tailwind-CSS)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FF9900?style=flat-square&labelColor=black&logo=Tailwind-CSS)
 ![Azure](https://img.shields.io/badge/Azure-FF9900?style=flat-square&labelColor=black&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square&labelColor=black&logo=git)
 
