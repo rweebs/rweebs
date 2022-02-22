@@ -11,7 +11,7 @@ Hello :wave:! I'm Rahmat, and I love to code and eager to explore various things
 ## 💼 Professional Experiences
 | Role | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Software Engineer | :fire: Internship | [Grab](https://www.grab.com/) | Sep 2021 - Present |
+| Software Engineer | :fire: Internship | [Grab](https://www.grab.com/) | Sep 2021 - Feb 2022 |
 | Fullstack Mobile Engineer | :fire: Internship | [Cybertrend](https://cybertrend-intra.com/) | April 2021 - June 2021 |
 
 ## :computer: Freelance Projects
