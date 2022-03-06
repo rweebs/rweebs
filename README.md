@@ -8,6 +8,12 @@
 
 Hello :wave:! I'm Rahmat, and I love to code and eager to explore various things!
 
+<p float="left">
+  <img src="/image/grab.gif" width="100" />
+  <img src="/image/xendit.png" width="100" /> 
+  <img src="/image/aws.gif" width="100" />
+</p>
+
 ## 💼 Professional Experiences
 | Role | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
