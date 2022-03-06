@@ -9,9 +9,9 @@
 Hello :wave:! I'm Rahmat, and I love to code and eager to explore various things!
 
 <p align="center">
-  <img src="/image/grab.gif" width="300" />
-  <img src="/image/xendit.png" width="300" /> 
-  <img src="/image/aws.gif" width="300" />
+  <img src="/image/grab.gif" width="200" />
+  <img src="/image/xendit.png" width="200" /> 
+  <img src="/image/aws.gif" width="200" />
 </p>
 
 ## 💼 Professional Experiences
