@@ -10,14 +10,12 @@ Hello :wave:! I'm Rahmat, and I love to code and eager to explore various things
 
 <p align="center">
   <img src="/image/grab.gif" width="200" />
-  <img src="/image/xendit.png" width="200" /> 
-  <img src="/image/aws.gif" width="200" />
+  <img src="/image/xendit.png" width="200" />
 </p>
 
 ## 💼 Professional Experiences
 | Role | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Solutions Architect | :fire: Internship | [AWS](https://aws.amazon.com/) | Coming Soon |
 | Database Reliability Engineer | :fire: Internship | [Xendit](https://www.xendit.co/) | Mar 2022 - Present|
 | Software Engineer | :fire: Internship | [Grab](https://www.grab.com/) | Sep 2021 - Feb 2022 |
 | Fullstack Mobile Engineer | :fire: Internship | [Cybertrend](https://cybertrend-intra.com/) | April 2021 - June 2021 |
